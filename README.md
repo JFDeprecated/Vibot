@@ -2,7 +2,7 @@
 
 Oscalite Vibot is an application coded in AppleScript which perform commands from a website’s title.
 
-Procedures:
+**Procedures:**
 
 1 - The user launches the application. (For first launch)
 
@@ -16,8 +16,7 @@ Procedures:
 
 6 - Wait for `delay(60)` until next check and repeat from step 4.
 
-
-Commands:
+**Commands:**
 
 `logout` - log out from the computer
 
@@ -32,6 +31,6 @@ Commands:
 `uninstall` - uninstall Oscalite Vibot Wireless
 
 
-**Please note that the "add to login items" feature may not work if you change the application file name without changing the word "Oscalite Vibot Wireless” in the line `my checkLoginItems("Oscalite Vibot", my_path)`.**
+**Please note that the "add to login items" feature may not work if you change the application file name without changing `”Oscalite Vibot Wireless”` in the line `my checkLoginItems("Oscalite Vibot", my_path)`.**
 
 Developed by Jordan Fung.
