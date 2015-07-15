@@ -1,4 +1,4 @@
-# Oscalite-Vibot
+# Oscalite-Vibot-Wireless
 
 Oscalite Vibot is an application coded in AppleScript which perform commands from a website’s title.
 
